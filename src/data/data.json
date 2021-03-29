@@ -1,0 +1,10 @@
+[
+    { "id": 1, "task": "Clean car", "isDone": true, "created": 1617025914868 },
+    { "id": 2, "task": "Cook eggs", "isDone": false, "created": 1617025914869 },
+    {
+        "id": 3,
+        "task": "Buy ice-cream",
+        "isDone": false,
+        "created": 1617025914870
+    }
+]
